@@ -1,4 +1,5 @@
 # Quiz Server
+[![Build Status](https://travis-ci.org/michaelrausch/Quiz-Server.svg?branch=master)](https://travis-ci.org/michaelrausch/Quiz-Server)
 
 ## Installation
 1. Install NodeJS
