@@ -4,7 +4,7 @@
 ## Installation
 1. Install NodeJS
 2. Edit config/settings.json
-3. Add your questions to config/settings.json
+3. Add your questions to config/questions.json
 4. npm install
 5. node bin/www
 6. Enter 127.0.0.1:3000 into your browser.
